@@ -21,6 +21,10 @@ class ViewController: UIViewController {
          code2 new
          code2 new
          */
+        
+        //app store
+        
+        //fix bug 1
     }
 
 
